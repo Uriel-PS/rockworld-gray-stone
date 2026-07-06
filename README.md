@@ -38,3 +38,14 @@ Open your terminal and run the following commands:
 ```bash
 g++ rockWorld.cpp -o rockWorld -std=c++17 -O2 -lglfw3 -lopengl32 -lgdi32 -luser32
 ./rockWorld.exe
+```
+
+### Linux
+Make sure you have `libglfw3-dev` installed, then run:
+```bash
+g++ rockWorld.cpp -o rockWorld -std=c++17 -O2 -lglfw -lGL
+./rockWorld
+```
+
+## 📜 Credits
+Developed as an open-source C++ and OpenGL learning project. Uses a public domain single-file font rendering system (`stb_easy_font`).
