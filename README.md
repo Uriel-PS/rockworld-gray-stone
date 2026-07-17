@@ -2,6 +2,8 @@
 
 A 2D turn-based battle game built from scratch using C++ and OpenGL. Choose your elemental stone—Fire, Water, or Plant—and battle through three evolution stages using a precision-based timing system to maximize your damage.
 
+![Gameplay demo](demo.gif)
+
 ## 🌟 Features
 
 * **Tactical Turn-Based Combat:** Engage in battles against elemental enemies that scale in difficulty and size across three evolution stages.
